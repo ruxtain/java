@@ -1,3 +1,6 @@
+# ignore folder
+temp/
+
 # Compiled class file
 *.class
 
